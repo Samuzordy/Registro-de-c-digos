@@ -1,4 +1,4 @@
-# Registro-de-codigos
+# Código contagem FATORIAL (exemplo teste)
 
 n = int(input("Digite o valor de n: "))
 
